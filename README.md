@@ -1,4 +1,4 @@
-<h1 align="left">TesterQA - CoderHous</h1>
+<h1 align="left">TesterQA - CoderHouse</h1>
 
 ###
 
